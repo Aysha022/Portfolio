@@ -1,3 +1,2 @@
 # Portfolio
-Personal Port
-folio that showcases my projects and skills.
+Personal Portfolio that showcases my projects and skills.
